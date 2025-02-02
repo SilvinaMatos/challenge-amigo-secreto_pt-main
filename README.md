@@ -20,6 +20,9 @@ Adicione os participantes digitando os nomes e clicando no botão correspondente
 
 Inicie o sorteio clicando no botão "Sortear Amigo".
 
+PARTICIPANTE DO DESAFIO
+![FOTO SIL](https://github.com/user-attachments/assets/cf4e2f1a-5a18-459c-b070-8e2b3eaf158f)
+
 O resultado do sorteio será exibido progressivamente, um por vez, até que todos os participantes tenham sido sorteados.
 
 OBJETIVO: 
