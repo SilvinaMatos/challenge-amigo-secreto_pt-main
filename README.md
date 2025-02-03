@@ -22,6 +22,10 @@ Inicie o sorteio clicando no botão "Sortear Amigo".
 
 O resultado do sorteio será exibido progressivamente, um por vez, até que todos os participantes tenham sido sorteados.
 
+![print 1](https://github.com/user-attachments/assets/5e092a2c-448b-4abf-b507-dd46d651335b)
+
+![pint 2](https://github.com/user-attachments/assets/b32bc0cc-1d69-4ec0-8159-a8be30041f9e)
+
 OBJETIVO: 
 
 Este challenge tem como propósito colocar em prática conceitos fundamentais de JavaScript, git hub, arrays e funções.
